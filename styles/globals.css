@@ -14,3 +14,13 @@ a {
 * {
   box-sizing: border-box;
 }
+
+#__next {
+  height: 100%;
+}
+
+#map {
+  position: absolute !important;
+  height: 100% !important;
+  width: 100% !important;
+}
